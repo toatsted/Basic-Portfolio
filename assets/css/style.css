@@ -1,0 +1,27 @@
+body {
+	margin: 0px;
+	background: #000000;
+
+}
+
+header {
+	height: 50px;
+	background: #f0f0f0;
+	border: 1px solid #cccccc;
+	width: 100%;
+	margin: 0px auto;
+}
+
+header .nameContainer {
+	background-color: #f30493;
+	width: 180px;
+	padding: 10px;
+}
+
+section {
+	width: 960px;
+	background: #f0f0f0;
+	border: 1px solid #cccccc;
+	height: 2000px;
+	margin: 20px auto;
+}
