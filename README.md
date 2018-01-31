@@ -1,3 +1,3 @@
 # Basic-Portfolio
 
-Basicly, a portfolio.
+Basically, a portfolio.
