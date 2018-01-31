@@ -1,0 +1,39 @@
+section {
+	width: 630px;
+	background-color: #ffffff;
+	padding: 20px;
+	height: 420px;
+	float: left;
+}
+
+img {
+	margin: 20px 10px 0px 0px;
+	float: left;
+}
+
+p {
+	margin: 20px 0px 0px 10px;
+	line-height: 30px;
+}
+
+aside {
+	width: 230px;
+	float: left;
+	height: 120px;
+	background-color: #ffffff;
+	margin-left: 20px;
+	padding: 20px;
+}
+
+aside li {
+	margin: 0 25px;
+}
+
+.connect-with-me {
+	text-align: center;
+}
+
+.small-logo {
+	width: 50px;
+	height: 50px;
+}
