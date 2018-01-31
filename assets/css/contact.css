@@ -2,14 +2,26 @@ section {
 	width: 630px;
 	background-color: #ffffff;
 	padding: 20px;
-	height: 420px;
+	height: 550px;
 	float: left;
 }
 
-input[type=text] {padding:5px; border:2px solid #ccc; 
--webkit-border-radius: 5px;
-    border-radius: 5px;
+input[type=text] { 
+	padding: 5px;
+	margin-left: 10px;
+	border:2px solid #cccccc; 
+	width: 500px;
 }
 
-input[type=text]:focus {border-color:#4aaaac; }
+input[type=submit] {
+	background-color: #4aaaac;
+	color: #ffffff;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	margin: 20px 10px;
+}
 
+.big-one {
+	height: 200px;
+}
