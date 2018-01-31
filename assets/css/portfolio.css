@@ -2,6 +2,36 @@ section {
 	width: 630px;
 	background-color: #ffffff;
 	padding: 20px;
-	height: 420px;
+	height: 750px;
 	float: left;
+}
+
+section img {
+	z-index: 1;
+    position: relative;
+}
+
+.col-0 {
+	float: left;
+}
+
+.col-1 {
+	float: right;
+}
+
+h3 {
+	z-index: 2;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    bottom: 20px;
+    color: #ffffff;
+    background-color: #4aaaac;
+    height: 20px;
+    padding: 20px 0;
+    width: 300px;
+}
+.img-container {
+	position: relative;
+	margin: 20px 0;
 }
