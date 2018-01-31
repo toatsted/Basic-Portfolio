@@ -2,8 +2,11 @@
 body {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
+
 	background-color: #eeeeee;
+
 	margin-top: 100px;
+
 	display: flex;
 	flex-direction: column;
 }
@@ -16,6 +19,7 @@ html, body {
 /* texts */
 p {
 	margin: 20px 0px 0px 10px;
+
 	line-height: 30px;
 }
 
@@ -25,14 +29,17 @@ h1, h2 {
 
 h1 {
 	color: #ffffff;
-	margin: 20px;
 	font-size: 25px;
+
+	margin: 20px;
 }
 
 h2 {
 	color: #4aaaac;
 	font-size: 25px;
+
 	border-bottom: 5px #cccccc solid;
+
 	padding: 10px 0px 15px 0px;
 }
 
@@ -40,26 +47,35 @@ h2 {
 /* header */
 header {
 	background-color: #ffffff;
+
 	height: 65px;
 	width: 100%;
+
 	position: fixed;
 	top: 0;
-	width: 100%;
+
 	border-bottom: 1px #cccccc solid;
+
 	margin-bottom: 20px;
 }
 
 header .name-container {
 	background-color: #4aaaac;
+
 	display: inline-block;
+
 	float: left;
+
 	height: 65px;
 }
 
 header li {
 	display: inline-block;
+
 	height: 65px;
+
 	text-align: center;
+
 	margin-top: 25px;
 }
 
@@ -72,11 +88,13 @@ header a {
     text-decoration: none;
     font-size: 15px;
     text-align: center;
+
     padding: 20px;
 }
 
 header a:hover {
 	color: #ffffff;
+
 	background-color: #4aaaac;
 }
 
@@ -84,6 +102,7 @@ header a:hover {
 /* classes */
 .container {
 	width: 960px;
+
 	margin: 0 auto;
 }
 
@@ -94,7 +113,9 @@ header a:hover {
 .small-logo {
 	width: 50px;
 	height: 50px;
+
 	float: left;
+
 	margin: 20px 10px 0 0;
 }
 
@@ -102,7 +123,9 @@ header a:hover {
 /* footer */
 footer {
 	background-color: #222222;
+
 	border-top: 5px solid #4aaaac;
+
 	height: 65px;
 	width: 100%;
 }
@@ -115,9 +138,12 @@ footer p {
 /* aside */
 aside {
 	width: 230px;
-	float: left;
 	height: 120px;
+
+	float: left;
+	
 	background-color: #ffffff;
+	
 	margin-left: 20px;
 	padding: 20px;
 }

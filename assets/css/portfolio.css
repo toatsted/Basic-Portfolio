@@ -1,14 +1,21 @@
 section {
 	width: 630px;
-	background-color: #ffffff;
-	padding: 20px;
 	height: 750px;
+
+	background-color: #ffffff;
+
+	padding: 20px;
+
 	float: left;
 }
 
 section img {
 	z-index: 1;
+
     position: relative;
+
+    width: 300px;
+    height: 200px;
 }
 
 .col-0 {
@@ -21,17 +28,24 @@ section img {
 
 h3 {
 	z-index: 2;
+
     position: absolute;
+
     font-size: 20px;
     text-align: center;
+	color: #ffffff;
+
     bottom: 20px;
-    color: #ffffff;
+
     background-color: #4aaaac;
+
     height: 20px;
+	width: 300px;
+
     padding: 20px 0;
-    width: 300px;
 }
 .img-container {
 	position: relative;
+	
 	margin: 20px 0;
 }

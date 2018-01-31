@@ -9,8 +9,11 @@ section {
 	float: left;
 }
 
-img {
+section img {
 	float: left;
 	
 	margin: 20px 10px 0 0;
+
+	width: 200px;
+	height: 200px;
 }
