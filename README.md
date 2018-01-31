@@ -1,3 +1,3 @@
-# Basic-Portfolio
+# basic-portfolio
 
 Basically, a portfolio.
