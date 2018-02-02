@@ -155,3 +155,7 @@ aside li {
 aside h2 {
 	text-align: center;
 }
+
+aside img {
+	border-radius: 50%;
+}
